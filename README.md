@@ -53,7 +53,7 @@ cd pro-dicom-viewer
 ## 🚀 Usage
 
 ```bash
-python pro_dicom_viewer_fixed.py /path/to/your/dicom/series
+python pro_dicom_viewer.py /path/to/your/dicom/series
 ```
 > 💡 If no path is provided, it defaults to a placeholder (changeable in `main()`).
 
