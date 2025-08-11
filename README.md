@@ -47,7 +47,7 @@ pip install imageio
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pro-dicom-viewer.git
+git clone https://github.com/RahulPatil-Tech/pro-dicom-viewer.git
 cd pro-dicom-viewer
 ```
 ## 🚀 Usage
