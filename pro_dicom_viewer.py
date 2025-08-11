@@ -1,5 +1,5 @@
 """
-pro_dicom_viewer_fixed.py
+pro_dicom_viewer.py
 
 Matplotlib-based DICOM viewer (fixed recursion bug):
 - Slider + mouse wheel + keyboard navigation
@@ -375,3 +375,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
